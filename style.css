@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background: #f2f2f2; /* Harus ada tanda # */
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+button {
+  background: black;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: darkred;
+}
+
+img {
+  margin-top: 20px;
+  width: 200px;
+  border-radius: 10px;
+}
